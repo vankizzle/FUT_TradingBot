@@ -1,0 +1,74 @@
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\bin\Debug\net5.0-windows\FUTTradingApp.exe
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\bin\Debug\net5.0-windows\FUTTradingApp.deps.json
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\bin\Debug\net5.0-windows\FUTTradingApp.runtimeconfig.json
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\bin\Debug\net5.0-windows\FUTTradingApp.runtimeconfig.dev.json
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\bin\Debug\net5.0-windows\FUTTradingApp.dll
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\bin\Debug\net5.0-windows\ref\FUTTradingApp.dll
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\bin\Debug\net5.0-windows\FUTTradingApp.pdb
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\bin\Debug\net5.0-windows\WebDriver.dll
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\bin\Debug\net5.0-windows\FUTAutomationAPI.dll
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\bin\Debug\net5.0-windows\FUTAutomationAPI.pdb
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\obj\Debug\net5.0-windows\FUTTradingApp.csprojAssemblyReference.cache
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\obj\Debug\net5.0-windows\FUTTradingApp_MarkupCompile.cache
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\obj\Debug\net5.0-windows\FUTTradingApp_MarkupCompile.lref
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\obj\Debug\net5.0-windows\FUTTradingApp.g.resources
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\obj\Debug\net5.0-windows\FUTTradingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\obj\Debug\net5.0-windows\FUTTradingApp.AssemblyInfoInputs.cache
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\obj\Debug\net5.0-windows\FUTTradingApp.AssemblyInfo.cs
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\obj\Debug\net5.0-windows\FUTTradingApp.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\obj\Debug\net5.0-windows\FUTTradingApp.csproj.CopyComplete
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\obj\Debug\net5.0-windows\FUTTradingApp.dll
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\obj\Debug\net5.0-windows\ref\FUTTradingApp.dll
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\obj\Debug\net5.0-windows\FUTTradingApp.pdb
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\obj\Debug\net5.0-windows\FUTTradingApp.genruntimeconfig.cache
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\bin\Debug\net5.0-windows\Prism.dll
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\bin\Debug\net5.0-windows\Prism.Unity.Wpf.dll
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\bin\Debug\net5.0-windows\Prism.Wpf.dll
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\bin\Debug\net5.0-windows\Unity.Abstractions.dll
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\bin\Debug\net5.0-windows\Unity.Container.dll
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\obj\Debug\net5.0-windows\Views\Pages\LoginScreenPage.g.cs
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\obj\Debug\net5.0-windows\Views\Windows\MainWindow.g.cs
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\obj\Debug\net5.0-windows\Views\Pages\LoginScreenPage.baml
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\obj\Debug\net5.0-windows\Views\Windows\MainWindow.baml
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\obj\Debug\net5.0-windows\Views\Pages\TwoFactorAuthPage.g.cs
+C:\Users\Ivan Draganov\source\repos\FUTTradingApp\obj\Debug\net5.0-windows\Views\Pages\TwoFactorAuthPage.baml
+D:\mygithub\FUT_TradingBot\FUTTradingApp\bin\Debug\net5.0-windows\FUTTradingApp.exe
+D:\mygithub\FUT_TradingBot\FUTTradingApp\bin\Debug\net5.0-windows\FUTTradingApp.deps.json
+D:\mygithub\FUT_TradingBot\FUTTradingApp\bin\Debug\net5.0-windows\FUTTradingApp.runtimeconfig.json
+D:\mygithub\FUT_TradingBot\FUTTradingApp\bin\Debug\net5.0-windows\FUTTradingApp.runtimeconfig.dev.json
+D:\mygithub\FUT_TradingBot\FUTTradingApp\bin\Debug\net5.0-windows\FUTTradingApp.dll
+D:\mygithub\FUT_TradingBot\FUTTradingApp\bin\Debug\net5.0-windows\ref\FUTTradingApp.dll
+D:\mygithub\FUT_TradingBot\FUTTradingApp\bin\Debug\net5.0-windows\FUTTradingApp.pdb
+D:\mygithub\FUT_TradingBot\FUTTradingApp\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\mygithub\FUT_TradingBot\FUTTradingApp\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\mygithub\FUT_TradingBot\FUTTradingApp\bin\Debug\net5.0-windows\Prism.dll
+D:\mygithub\FUT_TradingBot\FUTTradingApp\bin\Debug\net5.0-windows\Prism.Unity.Wpf.dll
+D:\mygithub\FUT_TradingBot\FUTTradingApp\bin\Debug\net5.0-windows\Prism.Wpf.dll
+D:\mygithub\FUT_TradingBot\FUTTradingApp\bin\Debug\net5.0-windows\WebDriver.dll
+D:\mygithub\FUT_TradingBot\FUTTradingApp\bin\Debug\net5.0-windows\Unity.Abstractions.dll
+D:\mygithub\FUT_TradingBot\FUTTradingApp\bin\Debug\net5.0-windows\Unity.Container.dll
+D:\mygithub\FUT_TradingBot\FUTTradingApp\bin\Debug\net5.0-windows\FUTAutomationAPI.dll
+D:\mygithub\FUT_TradingBot\FUTTradingApp\bin\Debug\net5.0-windows\FUTAutomationAPI.pdb
+D:\mygithub\FUT_TradingBot\FUTTradingApp\obj\Debug\net5.0-windows\FUTTradingApp.csprojAssemblyReference.cache
+D:\mygithub\FUT_TradingBot\FUTTradingApp\obj\Debug\net5.0-windows\Views\Pages\LoginScreenPage.g.cs
+D:\mygithub\FUT_TradingBot\FUTTradingApp\obj\Debug\net5.0-windows\Views\Pages\TwoFactorAuthPage.g.cs
+D:\mygithub\FUT_TradingBot\FUTTradingApp\obj\Debug\net5.0-windows\Views\Windows\MainWindow.g.cs
+D:\mygithub\FUT_TradingBot\FUTTradingApp\obj\Debug\net5.0-windows\App.g.cs
+D:\mygithub\FUT_TradingBot\FUTTradingApp\obj\Debug\net5.0-windows\FUTTradingApp_MarkupCompile.cache
+D:\mygithub\FUT_TradingBot\FUTTradingApp\obj\Debug\net5.0-windows\FUTTradingApp_MarkupCompile.lref
+D:\mygithub\FUT_TradingBot\FUTTradingApp\obj\Debug\net5.0-windows\Views\Pages\LoginScreenPage.baml
+D:\mygithub\FUT_TradingBot\FUTTradingApp\obj\Debug\net5.0-windows\Views\Pages\TwoFactorAuthPage.baml
+D:\mygithub\FUT_TradingBot\FUTTradingApp\obj\Debug\net5.0-windows\Views\Windows\MainWindow.baml
+D:\mygithub\FUT_TradingBot\FUTTradingApp\obj\Debug\net5.0-windows\FUTTradingApp.g.resources
+D:\mygithub\FUT_TradingBot\FUTTradingApp\obj\Debug\net5.0-windows\FUTTradingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\mygithub\FUT_TradingBot\FUTTradingApp\obj\Debug\net5.0-windows\FUTTradingApp.AssemblyInfoInputs.cache
+D:\mygithub\FUT_TradingBot\FUTTradingApp\obj\Debug\net5.0-windows\FUTTradingApp.AssemblyInfo.cs
+D:\mygithub\FUT_TradingBot\FUTTradingApp\obj\Debug\net5.0-windows\FUTTradingApp.csproj.CoreCompileInputs.cache
+D:\mygithub\FUT_TradingBot\FUTTradingApp\obj\Debug\net5.0-windows\FUTTradingApp.csproj.CopyComplete
+D:\mygithub\FUT_TradingBot\FUTTradingApp\obj\Debug\net5.0-windows\FUTTradingApp.dll
+D:\mygithub\FUT_TradingBot\FUTTradingApp\obj\Debug\net5.0-windows\ref\FUTTradingApp.dll
+D:\mygithub\FUT_TradingBot\FUTTradingApp\obj\Debug\net5.0-windows\FUTTradingApp.pdb
+D:\mygithub\FUT_TradingBot\FUTTradingApp\obj\Debug\net5.0-windows\FUTTradingApp.genruntimeconfig.cache

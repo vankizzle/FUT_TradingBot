@@ -1,0 +1,24 @@
+C:\Users\Ivan Draganov\source\repos\FUTAutomationAPI\bin\Debug\net5.0\FUTAutomationAPI.deps.json
+C:\Users\Ivan Draganov\source\repos\FUTAutomationAPI\bin\Debug\net5.0\FUTAutomationAPI.dll
+C:\Users\Ivan Draganov\source\repos\FUTAutomationAPI\bin\Debug\net5.0\ref\FUTAutomationAPI.dll
+C:\Users\Ivan Draganov\source\repos\FUTAutomationAPI\bin\Debug\net5.0\FUTAutomationAPI.pdb
+C:\Users\Ivan Draganov\source\repos\FUTAutomationAPI\obj\Debug\net5.0\FUTAutomationAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan Draganov\source\repos\FUTAutomationAPI\obj\Debug\net5.0\FUTAutomationAPI.AssemblyInfoInputs.cache
+C:\Users\Ivan Draganov\source\repos\FUTAutomationAPI\obj\Debug\net5.0\FUTAutomationAPI.AssemblyInfo.cs
+C:\Users\Ivan Draganov\source\repos\FUTAutomationAPI\obj\Debug\net5.0\FUTAutomationAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Draganov\source\repos\FUTAutomationAPI\obj\Debug\net5.0\FUTAutomationAPI.dll
+C:\Users\Ivan Draganov\source\repos\FUTAutomationAPI\obj\Debug\net5.0\ref\FUTAutomationAPI.dll
+C:\Users\Ivan Draganov\source\repos\FUTAutomationAPI\obj\Debug\net5.0\FUTAutomationAPI.pdb
+C:\Users\Ivan Draganov\source\repos\FUTAutomationAPI\obj\Debug\net5.0\FUTAutomationAPI.csprojAssemblyReference.cache
+D:\mygithub\FUT_TradingBot\FUTAutomationAPI\bin\Debug\net5.0\FUTAutomationAPI.deps.json
+D:\mygithub\FUT_TradingBot\FUTAutomationAPI\bin\Debug\net5.0\FUTAutomationAPI.dll
+D:\mygithub\FUT_TradingBot\FUTAutomationAPI\bin\Debug\net5.0\ref\FUTAutomationAPI.dll
+D:\mygithub\FUT_TradingBot\FUTAutomationAPI\bin\Debug\net5.0\FUTAutomationAPI.pdb
+D:\mygithub\FUT_TradingBot\FUTAutomationAPI\obj\Debug\net5.0\FUTAutomationAPI.csprojAssemblyReference.cache
+D:\mygithub\FUT_TradingBot\FUTAutomationAPI\obj\Debug\net5.0\FUTAutomationAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\mygithub\FUT_TradingBot\FUTAutomationAPI\obj\Debug\net5.0\FUTAutomationAPI.AssemblyInfoInputs.cache
+D:\mygithub\FUT_TradingBot\FUTAutomationAPI\obj\Debug\net5.0\FUTAutomationAPI.AssemblyInfo.cs
+D:\mygithub\FUT_TradingBot\FUTAutomationAPI\obj\Debug\net5.0\FUTAutomationAPI.csproj.CoreCompileInputs.cache
+D:\mygithub\FUT_TradingBot\FUTAutomationAPI\obj\Debug\net5.0\FUTAutomationAPI.dll
+D:\mygithub\FUT_TradingBot\FUTAutomationAPI\obj\Debug\net5.0\ref\FUTAutomationAPI.dll
+D:\mygithub\FUT_TradingBot\FUTAutomationAPI\obj\Debug\net5.0\FUTAutomationAPI.pdb
